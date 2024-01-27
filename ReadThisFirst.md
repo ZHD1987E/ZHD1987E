@@ -1,6 +1,15 @@
 # Who am I?
-Name: Zhang Hao Dong
-Pronouns: He/Him
+Name: Zhang Hao Dong (He/Him)
+
+Also goes by ZHD1987E.
+
+# Wait, why ZHD1987E?
+
+1: **ZHD** - My initials, **Z**hang **H**ao **D**ong
+
+2: **1987** - The year the Singapore Mass Rapid Transit system opened, 7 November 1987
+
+3: **E** - The checksum through the Singapore algorithm
 
 # What do I do?
 Currently a Business Analytics Student in the National University of Singapore.
