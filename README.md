@@ -12,7 +12,9 @@ Also goes by ZHD1987E.
 3: **E** - The checksum through the Singapore algorithm
 
 # What do I do?
-Currently a Business Analytics Student in the National University of Singapore.
+Currently a Business Analytics Student in the National University of Singapore. But I'm a lift person at heart, riding lifts up and down for fun and posting them on YouTube with some commentary.
+
+You can say I am a video content creator of sorts also 😉.
 
 # What do I like to do?
 Ride the bus to nowhere, take the lift/elevator to nowhere, and learn about the world that way.
