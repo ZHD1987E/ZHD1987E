@@ -19,5 +19,5 @@ You can say I am a video content creator of sorts 😉.
 # What do I like to do?
 Ride the bus to nowhere, take the lift/elevator to the top floor and down, and learn about the world that way.
 
-# How do you find me?
+# How do you find me (for code collaboration, or complaints about my repositories)?
 I have a lot of social media links, check them out at the side!
