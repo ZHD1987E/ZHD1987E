@@ -1,12 +1,11 @@
 # Who am I?
-Zhang Hao Dong (He/Him)
+Zhang Hao Dong
 
-I have a virtual registration plate of _ZHD1987E_.
+I also go by:
+- H.D.
+- Dong (Yes, people call me that in America!)
+- Zhang
+- ZHD1987E
 
-# Wait, why ZHD1987E?
-
-1: **ZHD** - My initials, **Z**hang **H**ao **D**ong
-
-2: **1987** - The year the Singapore Mass Rapid Transit system opened: 7 November **1987**
-
-3: **E** - The checksum through the Singapore license plate algorithm. Try it at [jayl.io](https://jayl.io/)!
+# What am I currently doing?
+Pursuing my studies in the National University of Singapore as a Business Analyst
