@@ -1,5 +1,5 @@
 # Who am I?
-Zhang Hao Dong
+Legally (according to Singapore Immigration documents) I go asZhang Hao Dong
 
 I also go by:
 - H.D.
@@ -8,4 +8,4 @@ I also go by:
 - ZHD1987E
 
 # What am I currently doing?
-Pursuing my studies in the National University of Singapore as a Business Analyst
+CONFIDENTIALS 😤😤😤
